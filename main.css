@@ -1,0 +1,74 @@
+﻿/* Global Styles */
+body {
+        font-family: Arial, sans-serif;
+        margin: 0;
+        padding: 0;
+}
+
+
+.container {
+        max-width: 1200px;
+        margin: 0 auto;
+        padding: 0 20px;
+}
+
+
+/* Header Styles */
+header {
+        background-color: #333;
+        color: #fff;
+        padding: 20px 0;
+}
+
+
+header h1 {
+        margin: 0;
+        padding: 0;
+        font-size: 2em;
+}
+
+
+nav ul {
+        list-style-type: none;
+}
+
+
+nav ul li {
+        display: inline;
+        margin-right: 20px;
+}
+
+
+nav ul li a {
+        color: #fff;
+        text-decoration: none;
+}
+
+
+/* Hero Section Styles */
+#hero {
+        background-color: #f1c40f; /* Yellow background */
+        padding: 50px 0;
+        text-align: center;
+}
+
+
+/* Other Section Styles */
+section {
+        padding: 50px 0;
+}
+
+
+/* Footer Styles */
+footer {
+        background-color: #333;
+        color: #fff;
+        padding: 20px 0;
+        text-align: center;
+}
+
+
+.social-links a {
+        margin-right: 10px;
+        color: #fff;
+}
